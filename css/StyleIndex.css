@@ -1,0 +1,36 @@
+
+body {
+    background-color: #ffffff;
+
+}
+
+.navTop {
+    background: #412201;
+}
+
+
+
+#btnGeneric {
+    border-radius: 2em;
+    border: 1px solid black;
+    background: black;
+    color: #ffff;
+    margin-right: 1em;
+    padding-left: 2em;
+    padding-right: 2em;
+}
+
+#cafeteria {
+    font-family: 'Dancing Script', cursive;
+    font-size: 3em;
+}
+
+#navDatos li {
+    font-family: Georgia;
+}
+
+.carousel-inner {
+    height: 600px;
+
+}
+
