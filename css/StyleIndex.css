@@ -29,11 +29,32 @@ body {
     font-family: Georgia;
 }
 
+/*CARUCEL 
 .carousel-inner {
     height: 600px;
+}
+#navPrincipal img {
+    height: 400px;
+}
+*/
+
+
+
+.imgMain {
+    height: 100%;
+    width: 100%;
 
 }
 
-#navPrincipal img {
-    height: 400px;
+/*RESPONSIVE NAVBAR*/
+@media all and (max-width: 991px){
+    #login li a{
+    margin: 0.5em;;
+    }
+}
+/*RESPONSIVE NAVBAR*/
+@media all and (max-width: 768px){
+    #collapsingNavbar3 li a{
+    margin: 0.5em;;
+    }
 }
